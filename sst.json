@@ -1,0 +1,7 @@
+{
+  "name": "sst-cors-example",
+  "region": "us-east-1",
+  "main": "infrastructure/index.ts",
+  "lint": false,
+  "typeCheck": false
+}
